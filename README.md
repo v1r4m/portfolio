@@ -16,21 +16,23 @@ viram / 1998.05.09
 
 ### Skill
 - PHP / Laravel / Docker
+- Java / SpringBoot / MyBatis
 - Python 3.x / djanago
-- Java / Spring / MyBatis
+- Next.js / typescript / javascript
 - C# / .NET Framework
 - robotC / C / C++ / QT
 - TOEIC 920 / OPIC AL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
 
-### Project
+### Toy Project
 #### 2023 - F&F
-- 연말에 정리...
+- `Next.js` [how private are you](https://github.com/v1r4m/how-private-are-you) (2023.12)
+- `Next.js` [Issue Diary](https://github.com/v1r4m/issue-diary-v1r4m) (2023.12)
+- `Python` [Twitter-d3](https://github.com/v1r4m/twitter-d3) (2023.11)
+- `Python` [Twitch gql viewer](https://github.com/v1r4m/twitch_gql_viewer) (2023.10)
 #### 2022 - F&F
-- `PHP` `Laravel` `Docker` [F&F](https://www.fnf.co.kr/pages/main/main.php) [SMS(Shop Management System)](https://sms.fnf.co.kr) (2022.11)
 - `django` [someATM coding test assignment](https://github.com/v1r4m/someATM) (2022.11)
-- `JAVA` `SPRING` [F&F](https://www.fnf.co.kr/pages/main/main.php) [EC backend System](https://ec.fnf.co.kr) (2022.10)
 - `C#` `.NET Framework` [Twitter Viewer](https://github.com/v1r4m/tt) (2022.10)
 - `React native` `Django` [Twitter Search API and D3 visualization](https://github.com/v1r4m/NLP) (2022.9)
 #### 2021 - Chung-Ang University
