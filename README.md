@@ -26,11 +26,15 @@ viram / 1998.05.09
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Toy Project
+#### 2024 - F&F
+- `Python` [macOS-D-Day](https://github.com/v1r4m/macOS-D-Day) (2024.02)
 #### 2023 - F&F
+- `django` [HSK-ai](https://github.com/v1r4m/HSK-ai) (2023.12)
+- `Next.js` [big random playlist for soundcloud](https://github.com/v1r4m/big-random-playlist-for-soundcloud) (2023.12)
 - `Next.js` [how private are you](https://github.com/v1r4m/how-private-are-you) (2023.12)
 - `Next.js` [Issue Diary](https://github.com/v1r4m/issue-diary-v1r4m) (2023.12)
 - `Python` [Twitter-d3](https://github.com/v1r4m/twitter-d3) (2023.11)
-- `Python` [Twitch gql viewer](https://github.com/v1r4m/twitch_gql_viewer) (2023.10)
+<!-- - `Python` [Twitch gql viewer](https://github.com/v1r4m/twitch_gql_viewer) (2023.10) -->
 #### 2022 - F&F
 - `django` [someATM coding test assignment](https://github.com/v1r4m/someATM) (2022.11)
 - `C#` `.NET Framework` [Twitter Viewer](https://github.com/v1r4m/tt) (2022.10)
