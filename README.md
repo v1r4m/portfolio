@@ -1,7 +1,7 @@
 # portfolio
 
 ### Hi there 👋
-viram / 1998.05.09
+viram / Eunjin Ko / 1998.05.09
 
 ### Career
 - 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
@@ -15,26 +15,31 @@ viram / 1998.05.09
 - 2014.02~2017.02 Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government) 
 
 ### Skill
-- PHP / Laravel / Docker
-- Java / SpringBoot / MyBatis
-- Python 3.x / djanago
-- Next.js / typescript / javascript
-- C# / .NET Framework
-- robotC / C / C++ / QT
+- Web Backend Dev ⌨️
+  - Modern PHP / Laravel
+  - Java / SpringBoot / MyBatis
+  - Python 3.x
+- Domain Expertise
+  - **Fashion, Distribution**, Logistics, Fashion Logistics, F&B, E-commerce
 - TOEIC 920 / OPIC AL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Toy Project
+*Only toy projects are listed here. For security and confidentiality reasons, professional work experience is included in the resume only.*
+#### 2025 - F&F
+- `Flask` `Python` [brps-flask](https://github.com/v1r4m/brps-flask) (2025.03)
+- `React.js` `Vite.js` [bucket](https://github.com/v1r4m/bucket) (2025.03)
+- `Python` `MacOS` [mac-stock-menu-bar](https://github.com/v1r4m/mac-stock-menu-bar) (2025.03)
 #### 2024 - F&F
 - `Python` [macOS-D-Day](https://github.com/v1r4m/macOS-D-Day) (2024.02)
+- `Reverse Engineering` [between-api](https://github.com/v1r4m/between-api) (2024.02)
 #### 2023 - F&F
 - `django` [HSK-ai](https://github.com/v1r4m/HSK-ai) (2023.12)
-- `Next.js` [big random playlist for soundcloud](https://github.com/v1r4m/big-random-playlist-for-soundcloud) (2023.12)
+<!-- - `Next.js` [big random playlist for soundcloud](https://github.com/v1r4m/big-random-playlist-for-soundcloud) (2023.12) -->
 - `Next.js` [how private are you](https://github.com/v1r4m/how-private-are-you) (2023.12)
-- `Next.js` [Issue Diary](https://github.com/v1r4m/issue-diary-v1r4m) (2023.12)
+- `Next.js` [Issue Diary](https://diary-two.vercel.app/eunjinkosilver) (2023.12)
 - `Python` [Twitter-d3](https://github.com/v1r4m/twitter-d3) (2023.11)
-<!-- - `Python` [Twitch gql viewer](https://github.com/v1r4m/twitch_gql_viewer) (2023.10) -->
 #### 2022 - F&F
 - `django` [someATM coding test assignment](https://github.com/v1r4m/someATM) (2022.11)
 - `C#` `.NET Framework` [Twitter Viewer](https://github.com/v1r4m/tt) (2022.10)
@@ -73,23 +78,17 @@ viram / 1998.05.09
 - `RobotC` dolls machine for high-school festival (2015.5)
 - `RobotC` [GyroBoy PID control](https://youtu.be/yi1JBCeA_nA) (2015.4)
 - `RobotC` [First LEGO League(robot) 2015 participate as a team Imagenation(1008)](https://github.com/v1r4m/fll2015/blob/main/KRC_Team%20Paper%201008%20Imagination.pdf)(2015.1)
-
-<!-- ### paused Project / buckeet list
-
-- ~~2016 FLL braille map(navigation) for blind (2015.2)~~
-- ~~2016 WRO cave rope-controlled exploring machine design (2015.7)~~
-- ~~map for public transportation and navigating system for blind(2017.3)~~ -->
  
- ### retrospective
- - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md) 
+<!-- ### retrospective
+ - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md)  -->
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
 
 ### As a Developer...
 1. Do not fear a change
 2. Enjoy learning new things
 3. Globally communicate, open everything in English
-4. Engineering means always looking for a better solution
+4. Believe engineering is about always seeking better solutions
 
 ### Contact me
- - choyoung7789@gmail.com
- - [soundcloud](https://soundcloud.com/v1r4m)
+ - 📧choyoung7789@gmail.com
+ - 🎹[soundcloud](https://soundcloud.com/v1r4m)
