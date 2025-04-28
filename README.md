@@ -4,14 +4,10 @@
 viram / Eunjin Ko / 1998.05.09
 
 ### Career
-- 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
-- 2017.03~2023.02 **[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
+- 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**<!-- - 2017.03~2023.02 **[ZeroPage CAU Computer Engineering club](https://zeropage.org)** -->
 - 2017.03~2023.02 **Chung-Ang University(중앙대학교), Computer Science Engineering**
-- 2017.07~2018.03 **[GirlsRobot](https://www.facebook.com/GirlsRobot/)**
-- 2017.07~2017.08 CAU summer vacation internship program - [Co. Edupang](https://edupang.com)
-- 2017.03~2017.08 CIEN CAU Computer Game Engineering club
-- 2017.03~2017.08 **CHIRO CAU Robotics club**
-- 2015.01~2017.02 **SangSang Robotics club**
+- 2017.07~2018.03 [GirlsRobot](https://www.facebook.com/GirlsRobot/)<!-- - 2017.07~2017.08 CAU summer vacation internship program - [Co. Edupang](https://edupang.com) --><!-- - 2017.03~2017.08 CIEN CAU Computer Game Engineering club --><!-- - 2017.03~2017.08 **CHIRO CAU Robotics club** -->
+- 2015.01~2017.02 SangSang Robotics club
 - 2014.02~2017.02 Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government) 
 
 ### Skill
@@ -83,11 +79,11 @@ viram / Eunjin Ko / 1998.05.09
  - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md)  -->
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
 
-### As a Developer...
+<!-- ### As a Developer...
 1. Do not fear a change
 2. Enjoy learning new things
 3. Globally communicate, open everything in English
-4. Believe engineering is about always seeking better solutions
+4. Believe engineering is about always seeking better solutions -->
 
 ### Contact me
  - 📧choyoung7789@gmail.com
