@@ -1,14 +1,16 @@
 # portfolio
 
 ### Hi there 👋
-viram / Eunjin Ko / 1998.05.09
+viram / Eunjin Ko / 1998.05.09 / Seongnam, South Korea
 
 ### Career
 - 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**<!-- - 2017.03~2023.02 **[ZeroPage CAU Computer Engineering club](https://zeropage.org)** -->
+- 2025.04~ &emsp;&emsp;&emsp; [RubiyaLab](https://rubiyalab.team) CTF team
 - 2017.03~2023.02 **Chung-Ang University(중앙대학교), Computer Science Engineering**
-- 2017.07~2018.03 [GirlsRobot](https://www.facebook.com/GirlsRobot/)<!-- - 2017.07~2017.08 CAU summer vacation internship program - [Co. Edupang](https://edupang.com) --><!-- - 2017.03~2017.08 CIEN CAU Computer Game Engineering club --><!-- - 2017.03~2017.08 **CHIRO CAU Robotics club** -->
+- 2017.07~2018.03 [GirlsRobot](https://www.facebook.com/GirlsRobot/)
+- 2017.07~2017.08 CAU summer vacation internship program - [Co. Edupang](https://edupang.com) <!-- - 2017.03~2017.08 CIEN CAU Computer Game Engineering club --><!-- - 2017.03~2017.08 **CHIRO CAU Robotics club** -->
 - 2015.01~2017.02 SangSang Robotics club
-- 2014.02~2017.02 Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government) 
+- 2014.02~2017.02 Ansan Dongsan Christian High School <!--(Science & Math focused high school designated by Korean government) -->
 
 ### Skill
 - Web Backend Dev ⌨️
@@ -23,10 +25,15 @@ viram / Eunjin Ko / 1998.05.09
 
 ### Toy Project
 *Only toy projects are listed here. For security and confidentiality reasons, professional work experience is included in the resume only.*
+#### 2026 - F&F
+- `Python` [ctf-ontology](https://ctf-ontology.viram.dev) (2026.01)
 #### 2025 - F&F
-- `Flask` `Python` [brps-flask](https://github.com/v1r4m/brps-flask) (2025.03)
+- `Flask` `Python` [brps-flask](https://music.viram.dev) (2025.03)
 - `React.js` `Vite.js` [bucket](https://github.com/v1r4m/bucket) (2025.03)
 - `Python` `MacOS` [mac-stock-menu-bar](https://github.com/v1r4m/mac-stock-menu-bar) (2025.03)
+- `sh script` [anti-polling](https://github.com/v1r4m/anti-polling) (2025.04)
+- `Python` [onedrive-sync](https://github.com/v1r4m/onedrive-sync) (2025.11)
+- `PHP` `Laravel` [php-diary](https://diary.viram.dev) (2025.12)
 #### 2024 - F&F
 - `Python` [macOS-D-Day](https://github.com/v1r4m/macOS-D-Day) (2024.02)
 - `Reverse Engineering` [between-api](https://github.com/v1r4m/between-api) (2024.02)
@@ -34,7 +41,7 @@ viram / Eunjin Ko / 1998.05.09
 - `django` [HSK-ai](https://github.com/v1r4m/HSK-ai) (2023.12)
 <!-- - `Next.js` [big random playlist for soundcloud](https://github.com/v1r4m/big-random-playlist-for-soundcloud) (2023.12) -->
 - `Next.js` [how private are you](https://github.com/v1r4m/how-private-are-you) (2023.12)
-- `Next.js` [Issue Diary](https://diary-two.vercel.app/eunjinkosilver) (2023.12)
+- `Next.js` [Issue Diary](https://diary-two.vercel.app/eunjinkosilver) (2023.12) *proceeded to php secured diary project in 2025.12*
 - `Python` [Twitter-d3](https://github.com/v1r4m/twitter-d3) (2023.11)
 #### 2022 - F&F
 - `django` [someATM coding test assignment](https://github.com/v1r4m/someATM) (2022.11)
