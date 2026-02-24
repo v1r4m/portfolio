@@ -21,12 +21,13 @@ viram / Eunjin Ko / 1998.05.09 / Seongnam, South Korea
   - **Fashion, Distribution**, Logistics, Fashion Logistics, F&B, E-commerce
 - TOEIC 920 / OPIC AL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Toy Project
 *Only toy projects are listed here. For security and confidentiality reasons, professional work experience is included in the resume only.*
 #### 2026 - F&F
 - `Python` [ctf-ontology](https://ctf-ontology.viram.dev) (2026.01)
+- `Python` `Flask` [where-to-go](https://where-to-go-wb4w.onrender.com) (2026.02)
 #### 2025 - F&F
 - `Flask` `Python` [brps-flask](https://music.viram.dev) (2025.03)
 - `React.js` `Vite.js` [bucket](https://github.com/v1r4m/bucket) (2025.03)
@@ -39,7 +40,7 @@ viram / Eunjin Ko / 1998.05.09 / Seongnam, South Korea
 - `Reverse Engineering` [between-api](https://github.com/v1r4m/between-api) (2024.02)
 #### 2023 - F&F
 - `django` [HSK-ai](https://github.com/v1r4m/HSK-ai) (2023.12)
-<!-- - `Next.js` [big random playlist for soundcloud](https://github.com/v1r4m/big-random-playlist-for-soundcloud) (2023.12) -->
+- `Next.js` [big random playlist for soundcloud](https://github.com/v1r4m/big-random-playlist-for-soundcloud) (2023.12) *proceeded to flask music project in 2025.03*
 - `Next.js` [how private are you](https://github.com/v1r4m/how-private-are-you) (2023.12)
 - `Next.js` [Issue Diary](https://diary-two.vercel.app/eunjinkosilver) (2023.12) *proceeded to php secured diary project in 2025.12*
 - `Python` [Twitter-d3](https://github.com/v1r4m/twitter-d3) (2023.11)
