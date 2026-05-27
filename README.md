@@ -28,6 +28,10 @@ viram / Eunjin Ko / 1998.05.09 / Seongnam, South Korea
 - `Python` [ctf-ontology](https://ctf-ontology.viram.dev) (2026.01)
 - `Python` `Flask` [where-to-go](https://where-to-go-wb4w.onrender.com) (2026.02)
 - `Python` `Flask` [kor-guesser](https://kor-guesser.onrender.com) (2026.03)
+- `Python` `Discord` [srt-play-discord-bot](https://discord.com/oauth2/authorize?client_id=1169261691779948694) (2026.04)
+- `Python` `Vuln` [omnissa-horizon-client-avoid-screen-capture-ban](https://github.com/v1r4m/omnissa-horizon-client-avoid-screen-capture-ban) (2026.04)
+- `Python` `Discord` [discord-broadcast-ghost-viewer](https://github.com/v1r4m/discord-broadcast-ghost-viewer) (2026.05)
+- `Python` `Discord` [USG-bot](https://github.com/v1r4m/USG-bot) (2026.05)
 #### 2025 - F&F
 - `Flask` `Python` [brps-flask](https://music.viram.dev) (2025.03)
 - `React.js` `Vite.js` [bucket](https://github.com/v1r4m/bucket) (2025.03)
