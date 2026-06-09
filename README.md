@@ -32,6 +32,8 @@ viram / Eunjin Ko / 1998.05.09 / Seongnam, South Korea
 - `Python` `Vuln` [omnissa-horizon-client-avoid-screen-capture-ban](https://github.com/v1r4m/omnissa-horizon-client-avoid-screen-capture-ban) (2026.04)
 - `Python` `Discord` [discord-broadcast-ghost-viewer](https://github.com/v1r4m/discord-broadcast-ghost-viewer) (2026.05)
 - `Python` `Discord` [USG-bot](https://github.com/v1r4m/USG-bot) (2026.05)
+- `typescript` `Discord` [discord-fancy-chat-capture](https://chromewebstore.google.com/detail/discord-fancy-chat-captur/bnfepckhehneopmgpceakdfffggkglei?hl=ko) (2026.05)
+- `Python` `KakaoMap` [ETA](https://eta.viram.dev) (2026.06)
 #### 2025 - F&F
 - `Flask` `Python` [brps-flask](https://music.viram.dev) (2025.03)
 - `React.js` `Vite.js` [bucket](https://github.com/v1r4m/bucket) (2025.03)
