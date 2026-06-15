@@ -34,6 +34,7 @@ viram / Eunjin Ko / 1998.05.09 / Seongnam, South Korea
 - `Python` `Discord` [USG-bot](https://github.com/v1r4m/USG-bot) (2026.05)
 - `typescript` `Discord` [discord-fancy-chat-capture](https://chromewebstore.google.com/detail/discord-fancy-chat-captur/bnfepckhehneopmgpceakdfffggkglei?hl=ko) (2026.05)
 - `Python` `KakaoMap` [ETA](https://eta.viram.dev) (2026.06)
+- `php` `larvel` `gemini` [ootd](https://ootd.viram.dev/@viram) (2026.06)
 #### 2025 - F&F
 - `Flask` `Python` [brps-flask](https://music.viram.dev) (2025.03)
 - `React.js` `Vite.js` [bucket](https://github.com/v1r4m/bucket) (2025.03)
